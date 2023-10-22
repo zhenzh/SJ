@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 5000,
+            "driver": "SQLite",
+            "name": "jhl",
+            "database": "${workspaceFolder:JHL}/script/map.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

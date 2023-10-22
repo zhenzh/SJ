@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MudletPackage>
+<MudletPackage version="1.001">
+	<HostPackage>
+		<Host autoClearCommandLineAfterSend="no" HighlightHistory="yes" printCommand="yes" USE_IRE_DRIVER_BUGFIX="yes" mUSE_FORCE_LF_AFTER_PROMPT="no" mUSE_UNIX_EOL="yes" mNoAntiAlias="no" mEchoLuaErrors="yes" runAllKeyMatches="no" AmbigousWidthGlyphsToBeWide="auto" mRawStreamDump="no" mIsLoggingTimestamps="yes" logDirectory="" logFileName="" logFileNameFormat="yyyy-MM-dd#HH-mm-ss" mAlertOnNewData="yes" mFORCE_NO_COMPRESSION="no" mFORCE_GA_OFF="no" mFORCE_SAVE_ON_EXIT="no" mEnableGMCP="yes" mEnableMSSP="yes" mEnableMSP="no" mEnableMSDP="no" mMapStrongHighlight="no" mEnableSpellCheck="yes" mEnableUserDictionary="yes" mUseSharedDictionary="yes" mAcceptServerGUI="yes" mAcceptServerMedia="yes" mMapperUseAntiAlias="yes" mMapperShowRoomBorders="yes" mFORCE_MXP_NEGOTIATION_OFF="no" mFORCE_CHARSET_NEGOTIATION_OFF="no" enableTextAnalyzer="no" mRoomSize="0.5" mLineSize="10.0" mBubbleMode="no" mMapViewOnly="no" mShowRoomIDs="no" mShowPanel="no" mHaveMapperScript="yes" mEditorAutoComplete="yes" mEditorShowBidi="yes" mEditorTheme="Mudlet" mEditorThemeFile="Mudlet.tmTheme" mThemePreviewItemID="2" mThemePreviewType="script" mSearchEngineName="Bing" mTimerSupressionInterval="00:00:00.000" mUseProxy="no" mProxyAddress="" mProxyPort="0" mProxyUsername="" mProxyPassword="" mSslTsl="no" mSslIgnoreExpired="yes" mSslIgnoreSelfSigned="yes" mSslIgnoreAll="yes" mDiscordAccessFlags="2439" mRequiredDiscordUserName="" mRequiredDiscordUserDiscriminator="" mSGRCodeHasColSpaceId="no" mServerMayRedefineColors="yes" playerRoomPrimaryColor="#ffff0000" playerRoomSecondaryColor="#ffffffff" playerRoomStyle="0" playerRoomOuterDiameter="120" playerRoomInnerDiameter="70" CompactInputLine="no" mDoubleClickIgnore="&quot;'" EditorSearchOptions="0" DebugShowAllProblemCodepoints="no" NetworkPacketTimeout="300">
+			<name>ShuJian</name>
+			<mInstalledPackages />
+			<mInstalledModules>
+				<key>书剑机器人</key>
+				<filepath>/Users/harry/Documents/SJ/书剑机器人.xml</filepath>
+				<globalSave>0</globalSave>
+				<priority>0</priority>
+			</mInstalledModules>
+			<url>sjmud.ates.top</url>
+			<serverPackageName>nothing</serverPackageName>
+			<serverPackageVersion>-1</serverPackageVersion>
+			<port>9999</port>
+			<borderTopHeight>100</borderTopHeight>
+			<borderBottomHeight>0</borderBottomHeight>
+			<borderLeftWidth>150</borderLeftWidth>
+			<borderRightWidth>385</borderRightWidth>
+			<wrapAt>100</wrapAt>
+			<wrapIndentCount>0</wrapIndentCount>
+			<mFgColor>#00aa00</mFgColor>
+			<mBgColor>#000000</mBgColor>
+			<mCommandFgColor>#717100</mCommandFgColor>
+			<mCommandBgColor>#000000</mCommandBgColor>
+			<mCommandLineFgColor>#808080</mCommandLineFgColor>
+			<mCommandLineBgColor>#000000</mCommandLineBgColor>
+			<mBlack>#000000</mBlack>
+			<mLightBlack>#808080</mLightBlack>
+			<mRed>#800000</mRed>
+			<mLightRed>#ff0000</mLightRed>
+			<mBlue>#000080</mBlue>
+			<mLightBlue>#0000ff</mLightBlue>
+			<mGreen>#008000</mGreen>
+			<mLightGreen>#00ff00</mLightGreen>
+			<mYellow>#808000</mYellow>
+			<mLightYellow>#ffff00</mLightYellow>
+			<mCyan>#008080</mCyan>
+			<mLightCyan>#00ffff</mLightCyan>
+			<mMagenta>#800080</mMagenta>
+			<mLightMagenta>#ff00ff</mLightMagenta>
+			<mWhite>#c0c0c0</mWhite>
+			<mLightWhite>#ffffff</mLightWhite>
+			<mDisplayFont>Ubuntu Mono,15,-1,5,50,0,0,0,1,0</mDisplayFont>
+			<mCommandLineFont>Bitstream Vera Sans Mono,14,-1,5,50,0,0,0,0,0</mCommandLineFont>
+			<mCommandSeparator>;</mCommandSeparator>
+			<commandLineMinimumHeight>30</commandLineMinimumHeight>
+			<mFgColor2>#c0c0c0</mFgColor2>
+			<mBgColor2>#000000</mBgColor2>
+			<mRoomBorderColor>#c0c0c0</mRoomBorderColor>
+			<mMapInfoBg>#969696</mMapInfoBg>
+			<mBlack2>#000000</mBlack2>
+			<mLightBlack2>#808080</mLightBlack2>
+			<mRed2>#800000</mRed2>
+			<mLightRed2>#ff0000</mLightRed2>
+			<mBlue2>#000080</mBlue2>
+			<mLightBlue2>#0000ff</mLightBlue2>
+			<mGreen2>#008000</mGreen2>
+			<mLightGreen2>#00ff00</mLightGreen2>
+			<mYellow2>#808000</mYellow2>
+			<mLightYellow2>#ffff00</mLightYellow2>
+			<mCyan2>#008080</mCyan2>
+			<mLightCyan2>#00ffff</mLightCyan2>
+			<mMagenta2>#800080</mMagenta2>
+			<mLightMagenta2>#ff00ff</mLightMagenta2>
+			<mWhite2>#c0c0c0</mWhite2>
+			<mLightWhite2>#ffffff</mLightWhite2>
+			<mSpellDic>en_US</mSpellDic>
+			<mLineSize>10.0</mLineSize>
+			<mRoomSize>0.5</mRoomSize>
+			<mapInfoContributor>Short</mapInfoContributor>
+			<profileShortcut key="Script editor">Ctrl+E</profileShortcut>
+			<profileShortcut key="Show Map">Ctrl+M</profileShortcut>
+			<profileShortcut key="Compact input line">Ctrl+L</profileShortcut>
+			<profileShortcut key="Preferences">Ctrl+P</profileShortcut>
+			<profileShortcut key="Notepad">Ctrl+N</profileShortcut>
+			<profileShortcut key="Package manager">Ctrl+O</profileShortcut>
+			<profileShortcut key="Module manager">Ctrl+I</profileShortcut>
+			<profileShortcut key="MultiView">Ctrl+Alt+V</profileShortcut>
+			<profileShortcut key="Play">Ctrl+Alt+C</profileShortcut>
+			<profileShortcut key="Disconnect">Ctrl+D</profileShortcut>
+			<profileShortcut key="Reconnect">Ctrl+R</profileShortcut>
+			<profileShortcut key="Close profile">Ctrl+W</profileShortcut>
+			<stopwatches />
+		</Host>
+	</HostPackage>
+	<TriggerPackage>
+		<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+			<name>打坐</name>
+			<script></script>
+			<triggerType>0</triggerType>
+			<conditonLineDelta>0</conditonLineDelta>
+			<mStayOpen>0</mStayOpen>
+			<mCommand></mCommand>
+			<packageName></packageName>
+			<mFgColor>#ff0000</mFgColor>
+			<mBgColor>#ffff00</mBgColor>
+			<mSoundFile></mSoundFile>
+			<colorTriggerFgColor>#000000</colorTriggerFgColor>
+			<colorTriggerBgColor>#000000</colorTriggerBgColor>
+			<regexCodeList />
+			<regexCodePropertyList />
+			<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+				<name>dazuo</name>
+				<script>if state.qx &gt;= profile.dazuo then
+  send("dazuo "..tostring(profile.dazuo))
+else
+  send("yun wuqi")
+end</script>
+				<triggerType>0</triggerType>
+				<conditonLineDelta>0</conditonLineDelta>
+				<mStayOpen>0</mStayOpen>
+				<mCommand></mCommand>
+				<packageName></packageName>
+				<mFgColor>#ff0000</mFgColor>
+				<mBgColor>#ffff00</mBgColor>
+				<mSoundFile></mSoundFile>
+				<colorTriggerFgColor>#000000</colorTriggerFgColor>
+				<colorTriggerBgColor>#000000</colorTriggerBgColor>
+				<regexCodeList>
+					<string>^·饮水·\s+\d+</string>
+					<string>你至少需要</string>
+				</regexCodeList>
+				<regexCodePropertyList>
+					<integer>1</integer>
+					<integer>0</integer>
+				</regexCodePropertyList>
+			</Trigger>
+			<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+				<name>hp</name>
+				<script>send("hp")</script>
+				<triggerType>0</triggerType>
+				<conditonLineDelta>0</conditonLineDelta>
+				<mStayOpen>0</mStayOpen>
+				<mCommand></mCommand>
+				<packageName></packageName>
+				<mFgColor>#ff0000</mFgColor>
+				<mBgColor>#ffff00</mBgColor>
+				<mSoundFile></mSoundFile>
+				<colorTriggerFgColor>#000000</colorTriggerFgColor>
+				<colorTriggerBgColor>#000000</colorTriggerBgColor>
+				<regexCodeList>
+					<string>你\S+站了起来。</string>
+					<string>你默念“心藏神，肝藏魂，脾藏意，肾藏精，肺藏魄”的法诀，正合道家「五气朝元」之理，霎时间</string>
+				</regexCodeList>
+				<regexCodePropertyList>
+					<integer>1</integer>
+					<integer>0</integer>
+				</regexCodePropertyList>
+			</Trigger>
+			<Trigger isActive="yes" isFolder="no" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
+				<name>wait</name>
+				<script>coroutine.wrap(function() wait(1) send("hp") end)()</script>
+				<triggerType>0</triggerType>
+				<conditonLineDelta>0</conditonLineDelta>
+				<mStayOpen>0</mStayOpen>
+				<mCommand></mCommand>
+				<packageName></packageName>
+				<mFgColor>#ff0000</mFgColor>
+				<mBgColor>#ffff00</mBgColor>
+				<mSoundFile></mSoundFile>
+				<colorTriggerFgColor>#000000</colorTriggerFgColor>
+				<colorTriggerBgColor>#000000</colorTriggerBgColor>
+				<regexCodeList>
+					<string>这个招式还在冷却中，暂时不能使用。</string>
+				</regexCodeList>
+				<regexCodePropertyList>
+					<integer>0</integer>
+				</regexCodePropertyList>
+			</Trigger>
+		</TriggerGroup>
+	</TriggerPackage>
+	<TimerPackage />
+	<AliasPackage />
+	<ActionPackage />
+	<ScriptPackage />
+	<KeyPackage />
+	<VariablePackage>
+		<HiddenVariables />
+	</VariablePackage>
+</MudletPackage>
